@@ -1,7 +1,9 @@
 ## FinApi - Financeia
 
+Projeto de uma API Financeira utilizando NodeJS, que trabalha principalmente com os métodos de requisição HTTP. Onde é possível realizar as ações descritas nos resquisitos listados.
+
 ## Requisitos
-- [x] Deve ser possível criar umma conta
+- [x] Deve ser possível criar uma conta
 - [x] Deve ser possível buscar o extrato bancário do cliente
 - [x] Deve ser possível visualizar o saldo atual da conta
 - [x] Deve ser possível realizar um depósito
